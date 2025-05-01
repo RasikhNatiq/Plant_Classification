@@ -1,0 +1,9 @@
+dataset_path: "C:\\Users\\natiq\\.cache\\kagglehub\\datasets\\emmarex\\plantdisease\\versions\\1\\PlantVillage"
+train_split: 0.8
+batch_size: 32
+num_epochs: 20
+learning_rate: 0.001
+input_shape: [3, 224, 224]
+num_classes: 15
+checkpoint_dir: "checkpoints"
+output_dir: "evaluation_reports"
