@@ -54,10 +54,6 @@ To evaluate the trained model, use:
 python src/evaluate.py
 ```
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 
 - EfficientNet model architecture by Google AI.
